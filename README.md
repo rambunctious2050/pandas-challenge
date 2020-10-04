@@ -12,4 +12,8 @@ Heroes of Pymoli is a video game in which players can make purchases within the 
 6. Next I cut the dataset by age ranges and calculated the same metrics as in step 5.
 7. Finally, I found the top spenders, most popular items and most profitable items, each time conducting a similar version of the metrics calculated in step 5.
 
-    
+Top 3 Takeaways/Trends:
+1. The total revenue generated from 780 in-app purchases is $2,379,77. 
+2. The majority of players (~84%) identify as male and 45% of total players are in the 20-24 age range. Both of these groups contribute to the majority of purchases.
+3. Items "Final Critic" (Item ID 92) and "Oathbreaker, Last Hope of the Breaking Storm" (Item ID 178) were the most popular and profitable items.
+
